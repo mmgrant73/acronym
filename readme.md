@@ -5,7 +5,7 @@
 Acronym is a custom web component.  It is a text box that holds an acronym.  When a mouse is over the element, it will expand and show the meaning of the acronym.  When the mouse is no longer over the element, it will contact to just show the acronym again.
 For example, NASA will expand to National Aeronautics and Space Administration.
 
-![Alt text](https://github.com/mmgrant73/acronym.png?raw=true "Image-Acronym")
+![Alt text](https://github.com/mmgrant73/acronym/blob/master/acronym.png?raw=true "Image-Acronym")
 
 [Click here for Demo](https://mmgrant73.github.io/acronym/acronym.html) 
 
