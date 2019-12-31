@@ -1,8 +1,7 @@
 # Acronym:
 
 ### What is it?
-Is a text box that holds an acronym.  When a mouse is over the element, it will expand and show the meaning
-of the acronym.  When the mouse is no longer over the element, it will contact to just show the acronym again.
+Acronym is a custom web component.  It is a text box that holds an acronym.  When a mouse is over the element, it will expand and show the meaning of the acronym.  When the mouse is no longer over the element, it will contact to just show the acronym again.
 For example, NASA will expand to National Aeronautics and Space Administration.
 
 ![Alt text](/acronym.png?raw=true "Image-Acronym")
