@@ -7,7 +7,7 @@ For example, NASA will expand to National Aeronautics and Space Administration.
 
 ![Alt text](/acronym.png?raw=true "Image-Acronym")
 
-[Click here for Demo](https://mmgrant73.github.io/imagecube/imgcube.html)
+[Click here for Demo](https://mmgrant73.github.io/acronym/acronym.html) 
 
 ### How to use it?
 It is quite easy to use it on your webpage. Just follow the below steps:
