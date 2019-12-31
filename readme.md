@@ -18,7 +18,7 @@ It is quite easy to use it on your webpage. Just follow the below steps:
     <script src="./acronym.js"></script>
 ```
 
-3)  Then use the custom element tags on your webpage.
+2.  Then use the custom element tags on your webpage.
 
 ```
     <x-acronym type="vertical" innerstyle="box-shadow: 6px 6px 3px grey; text-shadow: 0 0 3px #FF0000;">
