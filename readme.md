@@ -5,7 +5,9 @@ Is a text box that holds an acronym.  When a mouse is over the element, it will 
 of the acronym.  When the mouse is no longer over the element, it will contact to just show the acronym again.
 For example, NASA will expand to National Aeronautics and Space Administration.
 
-![alt text](https://github.com/mmgrant73/acronym/acronym.png "Acronym")
+![Alt text](/acronym.png?raw=true "Image-Acronym")
+
+[Click here for Demo](https://mmgrant73.github.io/imagecube/imgcube.html)
 
 ### How to use it?
 It is quite easy to use it on your webpage. Just follow the below steps:
