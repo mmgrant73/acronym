@@ -1,6 +1,6 @@
 {
   "name": "x-acronym",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Acronym is a custom web component.  It is a textbox that holds a acronym but if the mouse hovers over it, it will expand to show the whole text",
   "main": "acronym.js",
   "scripts": {
