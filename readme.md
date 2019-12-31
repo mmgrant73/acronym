@@ -15,23 +15,23 @@ It is quite easy to use it on your webpage. Just follow the below steps:
 1. Include the link to the script file that holds the this custom web component (progress-circle.js) near the bottom of 
    the body section of your webpage.  See below
    
-'
+```
     <script src="./acronym.js"></script>
-'
+```
 
 3)  Then use the custom element tags on your webpage.
 
-'
+```
     <x-acronym type="vertical" innerstyle="box-shadow: 6px 6px 3px grey; text-shadow: 0 0 3px #FF0000;">
         National Aeronautics and Space Administration
     </x-acronym>
-'
+```
 
 Note: The inner text of this custom element will be used to set the acronym.  It will take the first letter of each word
 and that will display in the text box.  When expanded the whole text will be shown.
 That is all you have to do to use this custom element.  There is an example HTML page (acronym.html) that shows how to use it.
 
-'
+```
     <!DOCTYPE html>
     <html>
       <head>
@@ -55,15 +55,15 @@ That is all you have to do to use this custom element.  There is an example HTML
       </body>
       
     </html>
-'
+```
 
-###There are only three properties (2 attributes and the innerText) that you can use to customize this element.
+### There are only three properties (2 attributes and the innerText) that you can use to customize this element.
 
 1. innerText - The first letter of each word will be used for the acronym and when expanded the whole text will be shown
 2. type - Is how this custom element will be displayed there are two options (horizontal or veritical)
 3. innerstyle - this attibutes allows you to set the style for the text box (see example to see how this is used)
 
-###To Do:
+### To Do:
 1. Add a way to ignore words in the innerText that you don't want to add to the acronym.
 Maybe by using Upper and Lowercase to determine which to ignore.
 For example: National Aeronautics and Space Administration - "and" will be ignored and the acronym will be NASA
