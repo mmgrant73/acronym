@@ -1,0 +1,35 @@
+{
+  "name": "x-acronym",
+  "version": "1.0.1",
+  "description": "Acronym is a custom web component.  It is a textbox that holds a acronym but if the mouse hovers over it, it will expand to show the whole text",
+  "main": "acronym.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmgrant73/acronym.git"
+  },
+  "keywords": [
+    "web",
+    "component",
+    "javascript",
+    "nodejs",
+    "html",
+    "css",
+    "template",
+    "html5",
+    "css3",
+    "custom",
+    "element",
+    "text",
+    "effect",
+    "acronym"
+  ],
+  "author": "Matthew Grant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmgrant73/acronym/issues"
+  },
+  "homepage": "https://github.com/mmgrant73/acronym#readme"
+}
